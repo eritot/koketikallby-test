@@ -1,0 +1,28 @@
+.mat-tab-link{
+  height: 100px;
+}
+.button{
+  font-size: 106px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-size: xx-large;
+}
+a:hover,
+a:active {
+  color: lightgray;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+.mat-toolbar{
+  height:110px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.mat-toolbar.mat-primary {
+  background: #241D50;
+  color: #fff;
+}

@@ -1,0 +1,11 @@
+<mat-toolbar color="primary">
+  <mat-toolbar-row>
+    <nav mat-tab-nav-bar>
+      <a mat-tab-link routerLink="/"><img src="assets/white_logo_dafgards.png" alt=""></a>
+    </nav>
+    <span class="example-spacer"></span>
+<!--    <a href="https://ernomamplify.auth.eu-west-1.amazoncognito.com/login?client_id=11rim93cn918kjj5ugsedar55i&response_type=code&scope=phone+email+openid+aws.cognito.signin.user.admin+profile&redirect_uri=http://localhost:4200/">-->
+    <button mat-icon-button ><i class="fas fa-sign-in-alt fa-3x"></i></button>
+    <button mat-icon-button routerLink="/login" (click)="logOut()"><i class="fas fa-sign-out-alt fa-3x"></i></button>
+  </mat-toolbar-row>
+</mat-toolbar>

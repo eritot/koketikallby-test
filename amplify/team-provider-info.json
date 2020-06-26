@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-koketikallbytest-dev-124445-authRole",
+            "UnauthRoleArn": "arn:aws:iam::126557206605:role/amplify-koketikallbytest-dev-124445-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::126557206605:role/amplify-koketikallbytest-dev-124445-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-koketikallbytest-dev-124445-deployment",
+            "UnauthRoleName": "amplify-koketikallbytest-dev-124445-unauthRole",
+            "StackName": "amplify-koketikallbytest-dev-124445",
+            "StackId": "arn:aws:cloudformation:eu-west-1:126557206605:stack/amplify-koketikallbytest-dev-124445/014b8cd0-b6d1-11ea-8412-0a9bdcf5c20a",
+            "AmplifyAppId": "dey1w3it3u4ns"
+        },
+        "categories": {
+            "auth": {
+                "koketikallbytestd08b1a78": {}
+            }
+        }
+    }
+}

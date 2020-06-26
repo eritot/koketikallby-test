@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"koketikallbytestd08b1a78": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
