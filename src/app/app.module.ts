@@ -9,6 +9,8 @@ import { MainPageComponent } from './main-page/main-page.component';
 import {MaterialModule} from './material/material.module';
 import {FlexLayoutModule} from '@angular/flex-layout';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
